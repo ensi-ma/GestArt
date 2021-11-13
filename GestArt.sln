@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestArt", "GestArt\GestArt.csproj", "{C6FE7CB3-46CC-43EB-B8AC-3D9B8EBB61BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FE7CB3-46CC-43EB-B8AC-3D9B8EBB61BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FE7CB3-46CC-43EB-B8AC-3D9B8EBB61BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FE7CB3-46CC-43EB-B8AC-3D9B8EBB61BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FE7CB3-46CC-43EB-B8AC-3D9B8EBB61BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFCF7D1B-4084-460C-A3E8-E7F8C400D02C}
+	EndGlobalSection
+EndGlobal
