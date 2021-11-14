@@ -38,7 +38,7 @@ namespace GestArt
         {
             Article art = new Article(
                 txtLib.Text,
-                Double.Parse(txtPu.Text))
+                double.Parse(txtPu.Text))
                 ;
 
             arts.Add(art);
